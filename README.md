@@ -1,5 +1,5 @@
 
-# Benutzerhandbuch mit Quellcode und Playwright erstellen
+# Benutzerhandbuch mit/ohne Quellcode erstellen
 
 Diese Anleitung beschreibt einen Arbeitsablauf, mit dem **ein ausführliches, bebildertes Benutzerhandbuch** für eine Webanwendung erstellt und nach einem Release effizient aktualisiert werden kann.
 
