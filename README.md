@@ -9,6 +9,24 @@ Der zentrale Gedanke lautet:
 
 Der Ablauf funktioniert besonders gut in VS Code mit einem Projektordner, den zugehörigen Playwright-Tests und einer Markdown-Dokumentation.
 
+## Inhaltsverzeichnis
+
+1. [Warum VS Code und Markdown?](#1-warum-vs-code-und-markdown)
+2. [Warum sollte der Quellcode einbezogen werden?](#2-warum-sollte-der-quellcode-einbezogen-werden)
+3. [Warum Playwright?](#3-warum-playwright)
+4. [Empfohlene Projektstruktur](#4-empfohlene-projektstruktur)
+5. [Voraussetzungen installieren](#5-voraussetzungen-installieren)
+6. [Playwright-Test ausführen](#6-playwright-test-ausführen)
+7. [Tests für ein Benutzerhandbuch schreiben](#7-tests-für-ein-benutzerhandbuch-schreiben)
+8. [Webseiten mit Anmeldung und Berechtigungen](#8-webseiten-mit-anmeldung-und-berechtigungen)
+9. [Screenshots für die KI auswertbar machen](#9-screenshots-für-die-ki-auswertbar-machen)
+10. [Nach einem neuen Release aktualisieren](#10-nach-einem-neuen-release-aktualisieren)
+11. [Vorgehen ohne Quellcode](#11-vorgehen-ohne-quellcode)
+12. [Markdown nach SharePoint übertragen](#12-markdown-nach-sharepoint-übertragen)
+13. [Qualitätsprüfung vor der Veröffentlichung](#13-qualitätsprüfung-vor-der-veröffentlichung)
+14. [Kurzfassung](#kurzfassung)
+
+    
 ## 1. Warum VS Code und Markdown?
 
 ### VS Code als gemeinsamer Arbeitsbereich
