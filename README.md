@@ -147,7 +147,7 @@ react-todo-app/
 └── README.md
 ```
 
-Screenshots sollten einen nachvollziehbaren Namen bekommen, zum Beispiel:
+Erzeugte Screenshots sollten einen nachvollziehbaren Namen bekommen, zum Beispiel:
 
 ```text
 01-startseite-leere-aufgabenliste.png
