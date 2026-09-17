@@ -1,7 +1,7 @@
 
 # Benutzerhandbuch mit/ohne Quellcode erstellen
 
-Diese Anleitung beschreibt einen Arbeitsablauf, mit dem **ein ausführliches, bebildertes Benutzerhandbuch** für eine Webanwendung erstellt und nach einem Release effizient aktualisiert werden kann.
+Diese Anleitung beschreibt einen Arbeitsablauf, mit dem **ein ausführliches, bebildertes, KI-freundliches Benutzerhandbuch** für eine Webanwendung erstellt und nach einem Release effizient aktualisiert werden kann.
 
 Der zentrale Gedanke lautet:
 
