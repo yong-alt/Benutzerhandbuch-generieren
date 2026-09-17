@@ -185,7 +185,7 @@ npx playwright install
 ```powershell
 npx playwright test
 ```
-![playwright test](img/playwright test befehlt.png)
+![playwright test](img/playwright_test_befehl.png)
 
 ### Einen einzelnen Test ausführen
 
