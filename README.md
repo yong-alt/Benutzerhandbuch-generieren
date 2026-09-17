@@ -214,7 +214,7 @@ Nach dem Testlauf kann der Bericht geöffnet werden:
 ```powershell
 npx playwright show-report
 ```
-![playwright report](img/playwright report.png)
+![playwright report](img/playwright_report.png)
 Im Bericht sind unter anderem Testschritte, Anhänge, **Screenshots, Videos von diesem Testflow** und bei Fehlern Traces sichtbar.
 
 ## 7. Tests für ein Benutzerhandbuch schreiben
