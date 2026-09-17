@@ -185,6 +185,7 @@ npx playwright install
 ```powershell
 npx playwright test
 ```
+![playwright test](img/playwright test befehlt.png)
 
 ### Einen einzelnen Test ausführen
 
@@ -213,7 +214,7 @@ Nach dem Testlauf kann der Bericht geöffnet werden:
 ```powershell
 npx playwright show-report
 ```
-
+![playwright report](img/playwright report.png)
 Im Bericht sind unter anderem Testschritte, Anhänge, **Screenshots, Videos von diesem Testflow** und bei Fehlern Traces sichtbar.
 
 ## 7. Tests für ein Benutzerhandbuch schreiben
