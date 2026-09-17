@@ -140,8 +140,7 @@ react-todo-app/
 ├── tests/                       # Playwright-Tests
 │   └── aufgabe-anlegen.spec.js
 ├── docs-site/                   # Markdown-Dokumentation
-│   ├── intro.md
-│   ├── Benutzerhandbuch-mit-Quellcode-und-Playwright.md
+│   ├── Benutzerhandbuch.md      # die zu aktualisierende oder vollständigende Version 
 │   └── static/img/              # erzeugte Screenshots
 ├── playwright.config.js         # Playwright-Konfiguration
 ├── package.json                 # Befehle und Abhängigkeiten
