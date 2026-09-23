@@ -358,6 +358,31 @@ Verwende keine Behauptung, die weder im Quellcode, im Test, im Screenshot noch
 in einer fachlichen Vorgabe belegt ist. Markiere offene Punkte zur manuellen Prüfung.
 Behalte die vorhandenen Bildpfade bei oder aktualisiere sie nur, wenn die Dateien
 wirklich umbenannt wurden.
+
+Wie Überschriften nummeriert und die dazugehörigen Sprunglinks des Inhaltsverzeichnises
+zugunsten einer Einbettung in SharePoint-Seite aufgebaut werden sollen:
+Die Überschrift muss exakt nummeriert sein: „8 Titel“ beziehungsweise „8.1 Untertitel“,
+jeweils ohne abschließenden Punkt nach der Nummer. Im Sprunglink bleiben Dezimalpunkte
+der Unterkapitelnummer erhalten. Leerzeichen werden durch Bindestriche ersetzt, Großbuch-
+staben werden kleingeschrieben und Satzzeichen wie Doppelpunkt, Schrägstrich und Anführungs-
+zeichen werden entfernt. Umlaute und inhaltliche Bindestriche dürfen erhalten bleiben.
+Beispiele:
+1. Nummerierung der Hauptüberschriften
+    „8 Terminauswahl“
+    - Hinter der Kapitelnummer darf kein Punkt stehen.
+    - Richtig: „8 Terminauswahl“
+    - Falsch: „8. Terminauswahl“
+
+2. Nummerierung der Unterüberschriften
+    8.1 Terminsuche und Terminvorschlag im Prozess
+    - Hinter der vollständigen Unterkapitelnummer darf kein zusätzlicher Punkt stehen.
+    - Richtig: „8.1 Terminsuche“
+    - Falsch: „8.1. Terminsuche“
+
+3. Bildung des Sprunglinks
+- Überschrift: „4.1 Auftrag mit Termin“
+- Richitg: #4.1-auftrag-mit-termin
+- Falsch: #41-auftrag-mit-termin
 ```
 
 Die KI sollte anschließend immer durch einen Menschen geprüft werden. Ein Screenshot beweist, was in genau diesem Zustand sichtbar war, aber nicht automatisch jede fachliche Regel der Anwendung.
@@ -409,6 +434,31 @@ Mache die Anweisungen genauer und für neue Benutzer leicht verständlich.
 Ergänze Voraussetzungen, erwartete Ergebnisse, Hinweise, Fehlerfälle und offene
 Fragen. Erfinde keine Funktionen, die in den Bildern oder Unterlagen nicht belegt sind.
 Markiere Stellen, die ein Fachanwender prüfen muss.
+
+Wie Überschriften nummeriert und die dazugehörigen Sprunglinks des Inhaltsverzeichnises
+zugunsten einer Einbettung in SharePoint-Seite aufgebaut werden sollen:
+Die Überschrift muss exakt nummeriert sein: „8 Titel“ beziehungsweise „8.1 Untertitel“,
+jeweils ohne abschließenden Punkt nach der Nummer. Im Sprunglink bleiben Dezimalpunkte
+der Unterkapitelnummer erhalten. Leerzeichen werden durch Bindestriche ersetzt, Großbuch-
+staben werden kleingeschrieben und Satzzeichen wie Doppelpunkt, Schrägstrich und Anführungs-
+zeichen werden entfernt. Umlaute und inhaltliche Bindestriche dürfen erhalten bleiben.
+Beispiele:
+1. Nummerierung der Hauptüberschriften
+    „8 Terminauswahl“
+    - Hinter der Kapitelnummer darf kein Punkt stehen.
+    - Richtig: „8 Terminauswahl“
+    - Falsch: „8. Terminauswahl“
+
+2. Nummerierung der Unterüberschriften
+    8.1 Terminsuche und Terminvorschlag im Prozess
+    - Hinter der vollständigen Unterkapitelnummer darf kein zusätzlicher Punkt stehen.
+    - Richtig: „8.1 Terminsuche“
+    - Falsch: „8.1. Terminsuche“
+
+3. Bildung des Sprunglinks
+- Überschrift: „4.1 Auftrag mit Termin“
+- Richitg: #4.1-auftrag-mit-termin
+- Falsch: #41-auftrag-mit-termin
 ```
 
 Ohne Quellcode kann die KI nicht zuverlässig feststellen, ob eine Funktion fehlt, nur unter bestimmten Rollen erscheint oder im Hintergrund anders arbeitet. Deshalb ist die fachliche Prüfung hier besonders wichtig.
